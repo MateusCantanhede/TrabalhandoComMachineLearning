@@ -80,7 +80,7 @@ Para o teste, utilizei o json abaixo:
 }
 ```
 
-A previsão gerada foi: 351.95
+A previsão gerada foi: 351.94
 
 ![image](https://github.com/MateusCantanhede/TrabalhandoComMachineLearning/assets/19481162/b19159ee-6b9a-4fa8-ae33-17d8745b51dd)
 
